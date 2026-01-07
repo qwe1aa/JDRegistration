@@ -23,6 +23,11 @@ This repository contains the implementation of the paper "Adaptive Multi-Feature
 
 ### Illustration of our CDDFuse model.
 
+<img src="image//Flowchart.png" width="90%" align=center />
+
+### Qualitative fusion results.
+
+<img src="image//Comparative.png" width="90%" align=center />
 
 
 ## 📁 Repository Structure
