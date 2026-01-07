@@ -21,7 +21,9 @@ This repository contains the implementation of the paper "Adaptive Multi-Feature
 
 ## 📊 Experimental Results
 
-Experimental results demonstrate that this method surpasses existing approaches in both subjective visual quality and objective evaluation metrics, offering more effective tool support for Jiandu digital research.
+### Illustration of our CDDFuse model.
+
+
 
 ## 📁 Repository Structure
 
